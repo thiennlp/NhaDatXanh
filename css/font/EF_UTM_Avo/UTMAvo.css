@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'UTMAvo';
+    src: url('fonts/UTMAvo.eot');
+    src: url('fonts/UTMAvo.eot') format('embedded-opentype'),
+         url('fonts/UTMAvo.woff2') format('woff2'),
+         url('fonts/UTMAvo.woff') format('woff'),
+         url('fonts/UTMAvo.ttf') format('truetype'),
+         url('fonts/UTMAvo.svg#UTMAvo') format('svg');
+}
+@font-face {
+    font-family: 'UTMAvo';
+    src: url('font/EF_UTM_Avo/UTMAvo.eot');
+    src: url('font/EF_UTM_Avo/UTMAvo.eot') format('embedded-opentype'),
+         url('font/EF_UTM_Avo/UTMAvo.woff2') format('woff2'),
+         url('font/EF_UTM_Avo/UTMAvo.woff') format('woff'),
+         url('font/EF_UTM_Avo/UTMAvo.ttf') format('truetype'),
+         url('font/EF_UTM_Avo/UTMAvo.svg#UTMAvo') format('svg');
+}

@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'RobotoCondensedBold';
+    src: url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.eot');
+    src: url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.eot') format('embedded-opentype'),
+         url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.woff2') format('woff2'),
+         url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.woff') format('woff'),
+         url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.ttf') format('truetype'),
+         url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.svg#RobotoCondensedBold') format('svg');
+}

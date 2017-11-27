@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UVFAphroditePro';
+    src: url('font/UVF Aphrodite Pro/UVFAphroditePro.eot');
+    src: url('font/UVF Aphrodite Pro/UVFAphroditePro.eot') format('embedded-opentype'),
+         url('font/UVF Aphrodite Pro/UVFAphroditePro.woff2') format('woff2'),
+         url('font/UVF Aphrodite Pro/UVFAphroditePro.woff') format('woff'),
+         url('font/UVF Aphrodite Pro/UVFAphroditePro.ttf') format('truetype'),
+         url('font/UVF Aphrodite Pro/UVFAphroditePro.svg#UVFAphroditePro') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'UVFMussicaSwash';
+    src: url('font/uvf_mussica_swash/UVFMussicaSwash.eot');
+    src: url('font/uvf_mussica_swash/UVFMussicaSwash.eot') format('embedded-opentype'),
+         url('font/uvf_mussica_swash/UVFMussicaSwash.woff2') format('woff2'),
+         url('font/uvf_mussica_swash/UVFMussicaSwash.woff') format('woff'),
+         url('font/uvf_mussica_swash/UVFMussicaSwash.ttf') format('truetype'),
+         url('font/uvf_mussica_swash/UVFMussicaSwash.svg#UVFMussicaSwash') format('svg');
+}

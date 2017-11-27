@@ -1,0 +1,170 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: 'UVFAphroditePro';
+    src: url('font/UVF Aphrodite Pro/UVFAphroditePro.eot');
+    src: url('font/UVF Aphrodite Pro/UVFAphroditePro.eot') format('embedded-opentype'),
+         url('font/UVF Aphrodite Pro/UVFAphroditePro.woff2') format('woff2'),
+         url('font/UVF Aphrodite Pro/UVFAphroditePro.woff') format('woff'),
+         url('font/UVF Aphrodite Pro/UVFAphroditePro.ttf') format('truetype'),
+         url('font/UVF Aphrodite Pro/UVFAphroditePro.svg#UVFAphroditePro') format('svg');
+}
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('font/EF_Roboto_Reguler/RobotoRegular.eot');
+    src: url('font/EF_Roboto_Reguler/RobotoRegular.eot') format('embedded-opentype'),
+         url('font/EF_Roboto_Reguler/RobotoRegular.woff2') format('woff2'),
+         url('font/EF_Roboto_Reguler/RobotoRegular.woff') format('woff'),
+         url('font/EF_Roboto_Reguler/RobotoRegular.ttf') format('truetype'),
+         url('font/EF_Roboto_Reguler/RobotoRegular.svg#RobotoRegular') format('svg');
+}
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('font/EF_Roboto_Bold/RobotoBold.eot');
+    src: url('font/EF_Roboto_Bold/RobotoBold.eot') format('embedded-opentype'),
+         url('font/EF_Roboto_Bold/RobotoBold.woff2') format('woff2'),
+         url('font/EF_Roboto_Bold/RobotoBold.woff') format('woff'),
+         url('font/EF_Roboto_Bold/RobotoBold.ttf') format('truetype'),
+         url('font/EF_Roboto_Bold/RobotoBold.svg#RobotoBold') format('svg');
+}
+@font-face {
+    font-family: 'SFUEurostileCondensed';
+    src: url('font/SFUEurostileCondensed/SFUEurostileCondensed.eot');
+    src: url('font/SFUEurostileCondensed/SFUEurostileCondensed.eot') format('embedded-opentype'),
+         url('font/SFUEurostileCondensed/SFUEurostileCondensed.woff2') format('woff2'),
+         url('font/SFUEurostileCondensed/SFUEurostileCondensed.woff') format('woff'),
+         url('font/SFUEurostileCondensed/SFUEurostileCondensed.ttf') format('truetype'),
+         url('font/SFUEurostileCondensed/SFUEurostileCondensed.svg#SFUEurostileCondensed') format('svg');
+}
+@font-face {
+    font-family: 'RobotoCondensedRegular';
+    src: url('font/EF_Roboto_Condense_Reguler/RobotoCondensedRegular.eot');
+    src: url('font/EF_Roboto_Condense_Reguler/RobotoCondensedRegular.eot') format('embedded-opentype'),
+         url('font/EF_Roboto_Condense_Reguler/RobotoCondensedRegular.woff2') format('woff2'),
+         url('font/EF_Roboto_Condense_Reguler/RobotoCondensedRegular.woff') format('woff'),
+         url('font/EF_Roboto_Condense_Reguler/RobotoCondensedRegular.ttf') format('truetype'),
+         url('font/EF_Roboto_Condense_Reguler/RobotoCondensedRegular.svg#RobotoCondensedRegular') format('svg');
+}
+@font-face {
+    font-family: 'UVNMuaThu';
+    src: url('font/UVNMuaThu/UVNMuaThu.eot');
+    src: url('font/UVNMuaThu/UVNMuaThu.eot') format('embedded-opentype'),
+         url('font/UVNMuaThu/UVNMuaThu.woff2') format('woff2'),
+         url('font/UVNMuaThu/UVNMuaThu.woff') format('woff'),
+         url('font/UVNMuaThu/UVNMuaThu.ttf') format('truetype'),
+         url('font/UVNMuaThu/UVNMuaThu.svg#UVNMuaThu') format('svg');
+}
+@font-face {
+    font-family: 'UTMAvoBold';
+    src: url('font/EF_UTM_Avo_Bold/UTMAvoBold.eot');
+    src: url('font/EF_UTM_Avo_Bold/UTMAvoBold.eot') format('embedded-opentype'),
+         url('font/EF_UTM_Avo_Bold/UTMAvoBold.woff2') format('woff2'),
+         url('font/EF_UTM_Avo_Bold/UTMAvoBold.woff') format('woff'),
+         url('font/EF_UTM_Avo_Bold/UTMAvoBold.ttf') format('truetype'),
+         url('font/EF_UTM_Avo_Bold/UTMAvoBold.svg#UTMAvoBold') format('svg');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Tahoma';
+    src: url('font/Tahoma/Tahoma.eot');
+    src: url('font/Tahoma/Tahoma.eot') format('embedded-opentype'),
+         url('font/Tahoma/Tahoma.woff2') format('woff2'),
+         url('font/Tahoma/Tahoma.woff') format('woff'),
+         url('font/Tahoma/Tahoma.ttf') format('truetype'),
+         url('font/Tahoma/Tahoma.svg#Tahoma') format('svg');
+}
+
+@font-face {
+    font-family: 'RobotoCondensedBold';
+    src: url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.eot');
+    src: url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.eot') format('embedded-opentype'),
+         url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.woff2') format('woff2'),
+         url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.woff') format('woff'),
+         url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.ttf') format('truetype'),
+         url('font/EF_Roboto_Condense_Bold/RobotoCondensedBold.svg#RobotoCondensedBold') format('svg');
+}
+@font-face {
+    font-family: 'UTMAvo';
+    src: url('font/EF_UTM_Avo/UTMAvo.eot');
+    src: url('font/EF_UTM_Avo/UTMAvo.eot') format('embedded-opentype'),
+         url('font/EF_UTM_Avo/UTMAvo.woff2') format('woff2'),
+         url('font/EF_UTM_Avo/UTMAvo.woff') format('woff'),
+         url('font/EF_UTM_Avo/UTMAvo.ttf') format('truetype'),
+         url('font/EF_UTM_Avo/UTMAvo.svg#UTMAvo') format('svg');
+}
+
+@font-face {
+    font-family: 'RobotoLight';
+    src: url('font/EF_Roboto_Light/RobotoLight.eot');
+    src: url('font/EF_Roboto_Light/RobotoLight.eot') format('embedded-opentype'),
+         url('font/EF_Roboto_Light/RobotoLight.woff2') format('woff2'),
+         url('font/EF_Roboto_Light/RobotoLight.woff') format('woff'),
+         url('font/EF_Roboto_Light/RobotoLight.ttf') format('truetype'),
+         url('font/EF_Roboto_Light/RobotoLight.svg#RobotoLight') format('svg');
+}
+
+
+
+@font-face {
+    font-family: 'UVFMussicaSwash';
+    src: url('font/uvf_mussica_swash/UVFMussicaSwash.eot');
+    src: url('font/uvf_mussica_swash/UVFMussicaSwash.eot') format('embedded-opentype'),
+         url('font/uvf_mussica_swash/UVFMussicaSwash.woff2') format('woff2'),
+         url('font/uvf_mussica_swash/UVFMussicaSwash.woff') format('woff'),
+         url('font/uvf_mussica_swash/UVFMussicaSwash.ttf') format('truetype'),
+         url('font/uvf_mussica_swash/UVFMussicaSwash.svg#UVFMussicaSwash') format('svg');
+}
+
+@font-face {
+    font-family: 'UVNHongHaHep_R'; 
+    src: url('font/UVNHongHaHep_R/UVNHongHaHep_R.eot');
+    src: url('font/UVNHongHaHep_R/UVNHongHaHep_R.eot') format('embedded-opentype'),
+         url('font/UVNHongHaHep_R/UVNHongHaHep_R.woff2') format('woff2'),
+         url('font/UVNHongHaHep_R/UVNHongHaHep_R.woff') format('woff'),
+         url('font/UVNHongHaHep_R/UVNHongHaHep_R.ttf') format('truetype'),
+         url('font/UVNHongHaHep_R/UVNHongHaHep_R.svg#RobotoMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'SFUEurostileBoldCondensed';
+    src: url('font/SFUEurostileBoldCondensed/SFUEurostileBoldCondensed.eot');
+    src: url('font/SFUEurostileBoldCondensed/SFUEurostileBoldCondensed.eot') format('embedded-opentype'),
+         url('font/SFUEurostileBoldCondensed/SFUEurostileBoldCondensed.woff2') format('woff2'),
+         url('font/SFUEurostileBoldCondensed/SFUEurostileBoldCondensed.woff') format('woff'),
+         url('font/SFUEurostileBoldCondensed/SFUEurostileBoldCondensed.ttf') format('truetype'),
+         url('font/SFUEurostileBoldCondensed/SFUEurostileBoldCondensed.svg#SFUEurostileBoldCondensed') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('font/OpenSans-Regular/OpenSansRegular.eot');
+    src: url('font/OpenSans-Regular/OpenSansRegular.eot') format('embedded-opentype'),
+         url('font/OpenSans-Regular/OpenSansRegular.woff2') format('woff2'),
+         url('font/OpenSans-Regular/OpenSansRegular.woff') format('woff'),
+         url('font/OpenSans-Regular/OpenSansRegular.ttf') format('truetype'),
+         url('font/OpenSans-Regular/OpenSansRegular.svg#OpenSansRegular') format('svg');
+}
+@font-face {
+    font-family: 'UTMAvo';
+    src: url('font/EF_UTM_Avo/UTMAvo.eot');
+    src: url('font/EF_UTM_Avo/UTMAvo.eot') format('embedded-opentype'),
+         url('font/EF_UTM_Avo/UTMAvo.woff2') format('woff2'),
+         url('font/EF_UTM_Avo/UTMAvo.woff') format('woff'),
+         url('font/EF_UTM_Avo/UTMAvo.ttf') format('truetype'),
+         url('font/EF_UTM_Avo/UTMAvo.svg#UTMAvo') format('svg');
+}
+
